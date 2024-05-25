@@ -30,7 +30,7 @@ This is the backend server for a Todo List application. It is built using Node.j
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/todo-server.git](https://github.com/ANKIT-BISWAS-20/Todo_Server.git
+   git clone https://github.com/ANKIT-BISWAS-20/Todo_Server.git
    cd todo-server
    ```
 
